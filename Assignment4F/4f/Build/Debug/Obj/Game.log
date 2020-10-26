@@ -1,4 +1,15 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  Main.cpp
+  App.cpp
+  Audio.cpp
+  Input.cpp
   Map.cpp
-C:\Users\Isaac\Documents\GitHub\PlatformerGame\4f\Game\Source\Map.cpp(169,21): warning C4018: '<': no coinciden signed/unsigned
-  Game.vcxproj -> C:\Users\Isaac\Documents\GitHub\PlatformerGame\4f\Build\Debug\Game.exe
+C:\Users\Isaac\Documents\GitHub\DesenvolupamentDeVideoJocs\Assignment4F\4f\Game\Source\Map.cpp(168,21): warning C4018: '<': no coinciden signed/unsigned
+  Scene.cpp
+  Render.cpp
+  Textures.cpp
+  Window.cpp
+  Log.cpp
+  pugixml.cpp
+  Generando código...
+  Game.vcxproj -> C:\Users\Isaac\Documents\GitHub\DesenvolupamentDeVideoJocs\Assignment4F\4f\Build\Debug\Game.exe
